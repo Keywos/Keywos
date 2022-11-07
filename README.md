@@ -1,3 +1,5 @@
+ ![](http://profile-counter.glitch.me/keywos/count.svg)
+
 ## Hi   👋
 
 
@@ -6,6 +8,5 @@
 * 学习者请24小时内删除本项目中的所有内容
 
 
-### 访问量
 
-![](http://profile-counter.glitch.me/keywos/count.svg)
+
