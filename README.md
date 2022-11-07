@@ -1,38 +1,11 @@
-### Hi there 👋
-
-<!--
-**Keywos/Keywos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi  👋
-
-📄| Rules | 规矩  |
-|  ----  | ----  | --- |
-⛔️| Fork is prohibited from any repository | 任何仓库都禁止Fork |
-❌| Otherwise, you will be blocked | 否则会被绝情Block |
-✅| But you have the right to use it | 但是您拥有使用权 |
-🔠| For learning reference only | 仅供学习参考 |
-🚫| never delete library | 绝不会删库 |
-📣| Good Luck | 祝好 |
+## Hi   👋
 
 
+* 本仓库所有内容仅用于个人测试和学习研究
+* 禁用于其他用途或者转载传播否则后果自负
+* 学习者请24小时内删除本项目中的所有内容
 
 
+### 访问量
 
-
-
-
-
-
-
-
+![](http://profile-counter.glitch.me/keywos/count.svg)
