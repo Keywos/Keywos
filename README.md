@@ -7,7 +7,5 @@
 * 学习者请24小时内删除本项目中的所有内容
 
 
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=keywos&layout=compact)
-
 
 
